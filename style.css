@@ -1,0 +1,127 @@
+html {
+	background:#000000;
+}
+#conte {
+}
+#contain {
+	width:960px;
+	margin-left:auto;
+	margin-right:auto;
+	background:#111;
+}
+#logotext {
+	text-align: center;
+	font-size: 28px;
+	text-decoration: none;
+	color: #000000;
+}
+#logo {
+	height: 280px;
+	width: 960px;
+	margin-left:auto;
+	margin-right:auto;
+	left: 0px;
+	top: 0px;
+	text-align:center;
+	}
+#sele {
+	background:#D4021E;
+	display: inline-block;
+	margin-left: 20%;
+	-webkit-border-top-right-radius: 20px;
+	-webkit-border-top-left-radius: 20px;
+	-moz-border-radius-topright: 20px;
+	-moz-border-radius-topleft: 20px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+}
+#combox, #abttxt, #arcbox {
+	color:#D4021E;
+	background:#D4021E;
+	margin-left: 20%;
+	margin-right: 20%;
+	vertical-align: middle;
+	padding: 20px;
+	-webkit-border-bottom-right-radius: 20px;
+	-webkit-border-bottom-left-radius: 20px;
+	-webkit-border-top-right-radius: 20px;
+	-moz-border-radius-bottomright: 20px;
+	-moz-border-radius-bottomleft: 20px;
+	-moz-border-radius-topright: 20px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+#arcbox {
+	max-height: 1400px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+#comi {
+	max-width:100%;
+}
+#menu1, #sep, #menu3 {
+	font-size: 30px;
+	text-decoration: none;
+	color:#999;
+}
+#menu1:hover, #menu2:hover, #menu3:hover, #menu4:hover {
+	color: #000;
+}
+#logotext:hover {
+	font-style:italic;
+	color: #009900;
+}
+#menu1 {
+	margin-left: 10px;
+	font-family: Lucida Console, Courier, Arial;
+	color:#fff;
+}
+#menu3 {
+	margin-right: 10px;
+	font-family: Lucida Console, Courier, Arial;
+	color:#fff;
+}
+#mainfb {
+	position: absolute;
+	margin-top: 0px;
+	margin-right: 0px;
+}
+#ads {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+#bak {
+	background-color: #D4021E;
+	height: 52px;
+	width: 50px;
+	top: 0px;
+	left: 0px;
+}
+#fow {
+	position: absolute;
+	background-color: #999999;
+	height: 120px;
+	width: 40px;
+	top: 0px;
+	right: 0px;
+}
+#sep {
+	color:#fff;
+}
+footer {
+	font-size:16px;
+	text-align:center;
+	color:#fff;
+}
+body {
+	background:#000;
+}
+nav {
+	background:green;
+	width:960px;
+}
+#menbloc1, #menbloc2, #menbloc3, #menbloc4, #menbloc5, #menbloc6 {
+	background:blue;
+}
